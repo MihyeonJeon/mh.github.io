@@ -1,6 +1,6 @@
 ---
 layout: default
 title: About
-permalink: https://mihyeonjeon.github.io/mh.github.io/about/
+permalink: /about/
 ---
 This is a page about me.
