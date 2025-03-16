@@ -3,6 +3,9 @@ author : Mihyeon Jeon
 # show_downloads: true
 theme: jekyll-theme-minimal
 description : A blog about bioinformatics and data engineering
+baseurl: "/mh.github.io"  # Set this correctly
+url: "https://mihyeonjeon.github.io"
+
 
 header_pages:
   - about.md
