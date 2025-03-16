@@ -4,8 +4,8 @@ author : Mihyeon Jeon
 theme: jekyll-theme-minimal
 description : A blog about bioinformatics and data engineering
 
-header_pages:
-  - about.md
-  - blog.md
-  - projects.md
-  - cv_contact.md
+# header_pages:
+#   - about.md
+#   - blog.md
+#   - projects.md
+#   - cv_contact.md
