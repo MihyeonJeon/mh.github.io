@@ -1,3 +1,11 @@
-title: Mihyeon Jeon
+title: Mihyeon's blog
+author : Mihyeon Jeon
 # show_downloads: true
 theme: jekyll-theme-minimal
+description : A blog about bioinformatics and data engineering
+
+header_pages:
+  - about.md
+  - blog.md
+  - projects.md
+  - cv_contact.md
